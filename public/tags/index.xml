@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AI 藏宝图</title>
-    <link>https://example.com/tags/</link>
+    <link>https://aimap.netlify.app/tags/</link>
     <description>Recent content in Tags on AI 藏宝图</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://aimap.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>chords</title>
-      <link>https://example.com/tags/chords/</link>
+      <link>https://aimap.netlify.app/tags/chords/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/chords/</guid>
+      <guid>https://aimap.netlify.app/tags/chords/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://aimap.netlify.app/tags/css/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://aimap.netlify.app/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://aimap.netlify.app/tags/html/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://aimap.netlify.app/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://example.com/tags/markdown/</link>
+      <link>https://aimap.netlify.app/tags/markdown/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/markdown/</guid>
+      <guid>https://aimap.netlify.app/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>https://example.com/tags/music/</link>
+      <link>https://aimap.netlify.app/tags/music/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/music/</guid>
+      <guid>https://aimap.netlify.app/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>https://example.com/tags/text/</link>
+      <link>https://aimap.netlify.app/tags/text/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/text/</guid>
+      <guid>https://aimap.netlify.app/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://example.com/tags/themes/</link>
+      <link>https://aimap.netlify.app/tags/themes/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/themes/</guid>
+      <guid>https://aimap.netlify.app/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>https://example.com/tags/privacy/</link>
+      <link>https://aimap.netlify.app/tags/privacy/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/privacy/</guid>
+      <guid>https://aimap.netlify.app/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://example.com/tags/shortcodes/</link>
+      <link>https://aimap.netlify.app/tags/shortcodes/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/shortcodes/</guid>
+      <guid>https://aimap.netlify.app/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://example.com/tags/math/</link>
+      <link>https://aimap.netlify.app/tags/math/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/math/</guid>
+      <guid>https://aimap.netlify.app/tags/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mermaid</title>
-      <link>https://example.com/tags/mermaid/</link>
+      <link>https://aimap.netlify.app/tags/mermaid/</link>
       <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/mermaid/</guid>
+      <guid>https://aimap.netlify.app/tags/mermaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://example.com/tags/python/</link>
+      <link>https://aimap.netlify.app/tags/python/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/python/</guid>
+      <guid>https://aimap.netlify.app/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://example.com/tags/emoji/</link>
+      <link>https://aimap.netlify.app/tags/emoji/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/emoji/</guid>
+      <guid>https://aimap.netlify.app/tags/emoji/</guid>
       <description></description>
     </item>
     

@@ -121,3 +121,13 @@ main {
 .ad-right-offset {
     min-height: 270vh;
 }
+
+/* 下面是适配移动端的css代码 */
+/* 在小于等于768像素宽度的屏幕上应用这些规则 */
+@media (max-width: 768px) {
+    #header .top-bar .title {
+      margin-bottom: 0;
+      font-size: 2rem;
+    }
+  }
+  

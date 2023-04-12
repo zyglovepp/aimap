@@ -36,7 +36,7 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 50px 0;
+  margin: 30px 0;
 }
 
 section {
@@ -100,6 +100,52 @@ section {
   margin: 5px 0;
   text-decoration: none;
 }
+/* 下面是适配移动端的代码 */
+@media (max-width:450px){
+  section {
+  width: 90%;
+  max-width: 800px;
+  margin-bottom: 50px;
+  padding: 0;
+  background-color: #2b2828;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  
+}
+  .card ul{
+  display: grid;
+  grid-template-columns: 1fr,1fr;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+.card ul li {
+  display: flex;
+  width: 390px;
+  height: 100px;
+  align-items: center;
+  margin-bottom: 5px;
+  padding: 0;
+  background-color: #f5f5f5;
+  border-radius: 5px;
+
+}
+
+.card ul li img {
+  height: 80px;
+  margin-right: 20px;
+}
+
+.card ul li div h3{
+  margin: 5px;
+}
+
+.card ul li div p {
+  margin: 0;
+  color: #000000;
+}
+
+  
+}
 
 
 
@@ -121,61 +167,41 @@ section {
         <h2>AI绘图工具</h2>
         <div class="card">
           <ul>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-            </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-                </a>
-            </li>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
               </a>
-              <h3>Tool Name</h3>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-            </li>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-            </li>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
+              </div>
             </li>
             
           </ul>
@@ -186,62 +212,43 @@ section {
         <h2>AI绘图工具</h2>
         <div class="card">
           <ul>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-            </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-                </a>
-            </li>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
               </a>
-              <h3>Tool Name</h3>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
+              </div>
             </li>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-            </li>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-            </li>
+            
           </ul>
         </div>
         
@@ -250,62 +257,88 @@ section {
         <h2>AI绘图工具</h2>
         <div class="card">
           <ul>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-            </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
+              </a>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
-                </a>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
                 <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-                <h3>Tool Name</h3>
-                <p>AI生成图片和文案</p>
-                </a>
-            </li>
-            <li>
-              <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
               </a>
-              <h3>Tool Name</h3>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
+              </div>
             </li>
-            <li>
+            
+          </ul>
+        </div>
+        
+      </section>
+      <section >
+        <h2>AI绘图工具</h2>
+        <div class="card">
+          <ul>
+            <li >
               <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
               </a>
-              <h3>Tool Name</h3>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
+              </div>
             </li>
-            <li>
+            <li >
               <a href="#">
-              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
               </a>
-              <h3>Tool Name</h3>
+              <div>
+                <h5>toolname</h5>
                 <p>AI生成图片和文案</p>
+              </div>
             </li>
+            <li >
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>toolname</h5>
+                <p>AI生成图片和文案</p>
+              </div>
+            </li>
+            <li >
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>toolname</h5>
+                <p>AI生成图片和文案</p>
+              </div>
+            </li>
+            
           </ul>
         </div>
         
