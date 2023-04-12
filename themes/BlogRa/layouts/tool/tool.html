@@ -1,0 +1,334 @@
+{{ define "css" }}
+<style>
+.light-mode {
+  background-color: #fff;
+  color: #000000;
+}
+
+.dark-mode {
+  background-color: #000000;
+  color: #fff;
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+}
+
+header {
+  background-color: #000000;
+  color: #000000;
+  text-align: center;
+  padding: 20px;
+}
+h1,h2{
+  font-size: 32px;
+  color: #ffffff;
+  -webkit-text-stroke: 1px #000000;
+  font-weight: 800;
+}
+
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 50px 0;
+}
+
+section {
+  width: 80%;
+  max-width: 800px;
+  margin-bottom: 50px;
+  padding: 20px;
+  background-color: #2b2828;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  
+}
+
+
+
+.card ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card ul li {
+  list-style-type: none;
+  align-items: center;
+  margin: 10px;
+  margin-bottom: 40px;
+  width: 150px;
+  height: 200px;
+  text-align: center;
+  color: #000000;
+  background-color: #97828218;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease-in-out;
+
+}
+
+.card ul li:hover {
+  margin-top: 5px;
+}
+
+.card a{
+  text-decoration: none;
+}
+.card a img {
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+  
+}
+
+.card h3 {
+  font-size: 18px;
+  color: whitesmoke;
+  margin: 10px 0 0 0;
+}
+
+.card p {
+  font-size: 14px;
+  color: whitesmoke;
+  margin: 5px 0;
+  text-decoration: none;
+}
+
+
+
+</style>
+{{ end }}
+
+
+{{ define "main" }}
+
+
+<!-- <button onclick="toggleBackground()">Toggle Background</button> -->
+
+
+    <header>
+      <div id="h1"><h1>AI工具&网站汇总</h1></div>
+    </header>
+    <main>
+      <section >
+        <h2>AI绘图工具</h2>
+        <div class="card">
+          <ul>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            
+          </ul>
+        </div>
+        
+      </section>
+      <section >
+        <h2>AI绘图工具</h2>
+        <div class="card">
+          <ul>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+          </ul>
+        </div>
+        
+      </section>
+      <section >
+        <h2>AI绘图工具</h2>
+        <div class="card">
+          <ul>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+                </a>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+            <li>
+              <a href="#">
+              <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              </a>
+              <h3>Tool Name</h3>
+                <p>AI生成图片和文案</p>
+            </li>
+          </ul>
+        </div>
+        
+      </section>
+    </main>
+
+
+{{ end }}
+
+{{ define "javascript" }}
+<script>
+    function toggleBackground() {
+  const body = document.querySelector('body');
+  if (body.classList.contains('light-mode')) {
+    body.classList.remove('light-mode');
+    body.classList.add('black-mode');
+  } else {
+    body.classList.remove('black-mode');
+    body.classList.add('light-mode');
+  }
+}
+
+
+</script>
+  
+{{ end }}

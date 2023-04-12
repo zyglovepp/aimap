@@ -1,0 +1,75 @@
+baseURL = "https://example.com/"
+canonifyURLs=true
+pluralizeListTitles = false
+summaryLength   = 25
+
+theme           = "BlogRa"
+languageCode    = "zh-cn"
+title           = "AI 藏宝图"
+
+disqusShortname = ""
+
+[params]
+    description     = "The Ultimate Tech Blogging Theme"
+    contactEmail    = "your-email@domain.com"
+    footer          = "zyg"
+    googleSearch    = "google-cse-key"
+    googleAnalytics = "G-A1B2C3D4E5" # v4
+    adsense         = "adsense-key"
+    math            = false   # best to enable this in the front matter of a page
+    mermaid         = false   # best to enable this in the front matter of a page
+
+    # Social Media Params
+    facebook   = "https://www.bilibili.com/"
+
+
+    
+
+
+
+# Configure the site menu here
+[menu]
+    [[menu.main]]
+        name = "首页"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "文章分类"
+        name = "文章分类"
+        weight = 2
+            [[menu.main]]
+                parent = "文章分类"
+                name = "chatgpt"
+                url = "/posts/"
+                weight = 1
+            [[menu.main]]
+                parent = "文章分类"
+                name = "midjourney"
+                url = "/sections/"
+                weight = 2
+            [[menu.main]]
+                parent = "文章分类"
+                name = "stable diffusion"
+                weight = 3
+            [[menu.main]]
+                parent = "文章分类"
+                name = "others"
+                url = "/tags/"
+                weight = 4
+    [[menu.main]]
+        name = "联系我们"
+        url = "/about/"
+        weight = 3
+    [[menu.main]]
+        name = "文章统计"
+        url = "/admin/"
+        weight = 4
+    [[menu.main]]
+        name = "AI工具导航栏"
+        url = "/tool/"
+        weight = 5
+
+# Don't touch this
+[markup.goldmark.renderer]
+    unsafe = true
