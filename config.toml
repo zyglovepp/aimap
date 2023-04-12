@@ -1,4 +1,4 @@
-baseURL = "https://643659a2deddcd00071b973b--aimap.netlify.app/"
+baseURL = "https://aimap.netlify.app/"
 canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
