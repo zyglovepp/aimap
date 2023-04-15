@@ -41,7 +41,7 @@ disqusShortname = ""
             [[menu.main]]
                 parent = "文章分类"
                 name = "chatgpt"
-                url = "/posts/"
+                url = "/sections/"
                 weight = 1
             [[menu.main]]
                 parent = "文章分类"

@@ -7,12 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language><atom:link href="https://aimap.netlify.app/tags/midjourney/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>使用资料</title>
+      <link>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/prompt%E7%A4%BE%E5%8C%BA%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/prompt%E7%A4%BE%E5%8C%BA%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9-%E5%89%AF%E6%9C%AC/</guid>
+      <description>Prompt 社区和关键词网站安利 Prompt 社区 PromptBase
+Public Prompts
+KREA — explore great prompts.
+常用提供关键词的网站 lexica https://lexica.art/(点击照片-弹出弹窗-copy 关键词）
+Mj Prompt Tool https://prompt.noonshot.com/
+一起用AI https://17yongai.com/
+中途提示助手 Midjourney Prompt Helper</description>
+    </item>
+    
+    <item>
+      <title>使用资料</title>
+      <link>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4-%E5%89%AF%E6%9C%AC/</guid>
+      <description>常用指令 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
+常用指令 /imagine 最基础的绘画指令。在 imagine 后面输入关键词即可进行 AI 绘画。
+/help 机器人会推送一些指南及基本的帮助信息。/subscribe 进入订阅频道。基础会员(10 美金/月)：每月 200 分钟 GPU 使用时间(fast 模式)。标准会员(30 美金/月)：每月 15 小时 GPU 使用时间(fast 模式)，并无限使用 relax 模式。</description>
+    </item>
+    
+    <item>
+      <title>使用资料</title>
+      <link>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E6%95%88%E6%9E%9C%E8%AF%8D%E6%94%B6%E9%9B%86-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E6%95%88%E6%9E%9C%E8%AF%8D%E6%94%B6%E9%9B%86-%E5%89%AF%E6%9C%AC/</guid>
+      <description>效果词收集 迪斯科扩散 70+ 艺术家研究 Disco Diffusion 70+ Artist Studies | Weird Wonderful AI Art
+基本艺术家 Mj v4 参考库 Basic artist - MJ v4 - lib.KALOS.art</description>
+    </item>
+    
+    <item>
       <title>初学使用</title>
       <link>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/midjourney&#43;chatgtp-%E5%88%9D%E6%AD%A5%E5%B9%B3%E9%9D%A2%E5%92%8C%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/midjourney&#43;chatgtp-%E5%88%9D%E6%AD%A5%E5%B9%B3%E9%9D%A2%E5%92%8C%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</guid>
-      <description>Midjourney+Chatgtp 初步平面和产品设计 副本 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！# 前言：无论用 Midjourney 做什么设计，还是结合 ChatGTP 提供灵感使用的结果最简单且一流用魔法打败魔法设计 EG：1. 盲盒1. 吉祥物等各种 LOGO1. UI 屏幕1. App 图标1. 海报1. 服装1. 建筑1. 各种风格的绘画1. 等等&amp;hellip;只有你想不到，没有 ai 做不到
+      <description>Midjourney+Chatgtp 初步平面和产品设计 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！# 前言：无论用 Midjourney 做什么设计，还是结合 ChatGTP 提供灵感使用的结果最简单且一流用魔法打败魔法设计 EG：1. 盲盒1. 吉祥物等各种 LOGO1. UI 屏幕1. App 图标1. 海报1. 服装1. 建筑1. 各种风格的绘画1. 等等&amp;hellip;只有你想不到，没有 ai 做不到
 用 ChatGTP 提供不同设计风格的提示词 你跟 chatgpt 说：</description>
     </item>
     
@@ -38,7 +74,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97-%E5%89%AF%E6%9C%AC/</guid>
-      <description>注册指南 副本 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
+      <description>注册指南 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
 链接 Midjourney 官网 https://www.midjourney.com/showcase/recent/
 discord 链接：
 https://discord.com/
@@ -59,11 +95,70 @@ https://discord.com/
     
     <item>
       <title>进阶使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/</link>
+      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/30%E7%A7%8D%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/</guid>
-      <description></description>
+      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/30%E7%A7%8D%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC-%E5%89%AF%E6%9C%AC/</guid>
+      <description>作者：树哥玩转 AIGC链接：https://zhuanlan.zhihu.com/p/610590670来源：知乎本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
+1、等距动漫风格 美丽的冰淇淋店
+关键词：3d 32-bit isometric anime ice cream stand with an old woman &amp;ndash;v 4
+images from Exquisite Workers
+2、解析图风格 椅子图
+关键词：analytic drawing of a chair &amp;ndash;v 4</description>
+    </item>
+    
+    <item>
+      <title>进阶使用</title>
+      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/logo%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/logo%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</guid>
+      <description>LOGO 设计 副本 作者：树哥玩转 AIGC链接：https://zhuanlan.zhihu.com/p/613391659来源：知乎本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
+用 Midjourney 设计 logo 的关键词与样图。 矢量图形类 logo 设计 核心关键词：vector &amp;ndash;no realistic photo detail shading
+明确告诉 Midjourney，不想要“细节”或“现实主义”或“阴影”。
+线条风格 LOGO 设计 核心关键词：minimal line logo</description>
+    </item>
+    
+    <item>
+      <title>进阶使用</title>
+      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BA%BA%E7%89%A9%E8%A7%86%E5%9B%BE%E8%A7%A3%E6%9E%90-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BA%BA%E7%89%A9%E8%A7%86%E5%9B%BE%E8%A7%A3%E6%9E%90-%E5%89%AF%E6%9C%AC/</guid>
+      <description>本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！本文参考公众号：RaDesign
+摄影三要素 拍摄位置：正面/背面/侧面： Front view 正面（前视图）/Back view 背面（后视图）/Side view 侧面（侧视图）/Left view（左视图）/Overhead view （俯视图）
+示例 例句：Kawaii maid &amp;ndash;ar 16:9
+翻译：很卡哇伊的女佣。
+例句：Front view Kawaii maid &amp;ndash;ar 16:9</description>
+    </item>
+    
+    <item>
+      <title>进阶使用</title>
+      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BB%A5%E5%9B%BE%E7%94%9F%E6%96%87-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BB%A5%E5%9B%BE%E7%94%9F%E6%96%87-%E5%89%AF%E6%9C%AC/</guid>
+      <description>以图生文 1、在 Midjourney 中找到 /describe 指令
+2、选择 /describe 指令后，点击红框区域 上传图片
+3、上传图片后，确认回车，会生成 4 组该图片的关键词
+4、分别选择下方 1 2 3 4，便会生成四组与之前上传的那张图相似风格的图片
+效果如下
+此次四组关键词中，前三组关键词生成的图片还是蛮相似的，最后一组差异化大一些。</description>
+    </item>
+    
+    <item>
+      <title>进阶使用</title>
+      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E6%9B%B4%E7%B2%BE%E5%87%86%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E6%9B%B4%E7%B2%BE%E5%87%86%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D-%E5%89%AF%E6%9C%AC/</guid>
+      <description>如何写出更精准的关键词 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！本文参考公众号：彩云译设计
+一、通用场景模版 1）具象描述法：模版只是列举了常用的几类关键词，大家根据实际情况自行加减即可
+句式：
+【媒介】+【画面风格】+【画面主体】+【画面环境】+【光照】+【色彩】+【视角】+【渲染方式】+【出图质量】+【官方指令】
+以什么为媒介出图？（雕塑、油画、手稿&amp;hellip;[非必要]） 用什么风格出图？（插画、漫画、照片&amp;hellip;） 画面主体是什么？（人、物品、动物&amp;hellip;） 主体材质是什么？（黏土、模型、玻璃&amp;hellip;[非必要]） 主体之外的环境？（卧室、森林、城市&amp;hellip;） 主环境打什么光？（柔和光、荧光、工作室灯光&amp;hellip;） 整体色调什么样？（高饱和、柔和的颜色、蓝色调&amp;hellip;） 用什么视角出图？（全景图、透视、轴测图&amp;hellip;） 例子 1：
+译：插画，赛博朋克，一个身穿夹克的老人在街道上捡垃圾，废墟，霓虹灯冷光，鸟瞰图，虚幻引擎，8k 质量 ,渲染质量 2
+Illustration, Cyberpunk, an old man in a jacket picking up garbage on the street, ruins, neon cold lighting, aerial view, Unreal Engine, 8k &amp;ndash;q 2</description>
     </item>
     
   </channel>
