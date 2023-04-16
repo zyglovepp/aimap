@@ -3,6 +3,7 @@ title: 进阶使用
 date: 2023-4-02
 tags: ["Midjourney"]
 description: LOGO 设计
+image: img.jpeg
 ---
 
 # LOGO 设计 副本

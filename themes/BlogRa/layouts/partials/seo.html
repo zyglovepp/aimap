@@ -27,11 +27,12 @@
     <meta property="og:description" content="All articles in &quot;{{ .Title }}&quot;" />
 
     {{ if .Params.image }}
-    {{ $image := .Resources.GetMatch .Params.image }}
-    <meta property="og:image" content="{{ $image.Permalink }}" />
-    {{ else if (fileExists "static/image/cover.png") -}}
+    {{ $image := .Page.Resources.GetMatch (printf "%s" .Params.image) }}
+    <meta property="og:image" content="{{ $image.RelPermalink }}" />
+    {{ else if fileExists "static/image/cover.png" }}
     <meta property="og:image" content="{{ "image/cover.png" | absURL }}" />
     {{ end }}
+    
 
 {{ else }}
 <meta name="description" content="
@@ -47,11 +48,12 @@
     {{ end }}{{ end }}{{ end }}" 
 />
 {{ if .Params.image }}
-{{ $image := .Resources.GetMatch .Params.image }}
-<meta property="og:image" content="{{ $image.Permalink }}" />
-{{ else if (fileExists "static/image/cover.png") -}}
+{{ $image := .Page.Resources.GetMatch (printf "%s" .Params.image) }}
+<meta property="og:image" content="{{ $image.RelPermalink }}" />
+{{ else if fileExists "static/image/cover.png" }}
 <meta property="og:image" content="{{ "image/cover.png" | absURL }}" />
 {{ end }}
+
 {{ end }}
 
 

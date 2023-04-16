@@ -1,7 +1,7 @@
 ---
 layout: single2
 title: About
-image: profile.png
+image: aimap二维码.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+如果你在学习教程的时候，希望得到我们的帮助，或者想要加入我们，帮助你学习，欢迎和我们联系。

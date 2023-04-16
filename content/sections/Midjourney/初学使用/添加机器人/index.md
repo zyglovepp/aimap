@@ -1,8 +1,9 @@
 ---
-title: 初学使用
+title: 添加 niji 机器人生成动漫图
 date: 2023-4-01
 tags: ["Midjourney"]
-description: 添加 niji 机器人生成动漫图 副本
+description: ……
+image: img.jpeg
 ---
 
 # 添加 niji 机器人生成动漫图 副本
