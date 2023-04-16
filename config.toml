@@ -51,6 +51,7 @@ disqusShortname = ""
             [[menu.main]]
                 parent = "文章分类"
                 name = "stable diffusion"
+                url = "/sections/"
                 weight = 3
             [[menu.main]]
                 parent = "文章分类"
