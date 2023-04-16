@@ -82,7 +82,7 @@ section {
   text-decoration: none;
 }
 .card a img {
-  width: 50%;
+  width: 80%;
   height: 50%;
   object-fit: contain;
   
@@ -114,7 +114,7 @@ section {
   .card ul{
   display: grid;
   grid-template-columns: 1fr,1fr;
-  justify-content: center;
+  justify-content: space-around;
   margin: 0;
   padding: 0;
 }
@@ -161,51 +161,122 @@ section {
 
 
     <header>
-      <div id="h1"><h1>AI工具&网站汇总（暂时还没有搞好，之后会开放此页面）</h1></div>
+      <div id="h1"><h1>AI工具&网站汇总（点击图标即可跳转相应的网站）</h1></div>
       
     </header>
-    <!-- <main>
+    <main>
       <section >
-        <h2>AI绘图工具</h2>
+        <h2>AI视频工具</h2>
+        <div class="card">
+          <ul>
+            <li >
+              <a href="https://runwayml.com/">
+                <img src="{{ relURL "/image/runway.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>Runway</h5>
+                <p>AI 魔法工具</p>
+              </div>
+            </li>
+            <li >
+              <a href="https://www.synthesia.io/">
+                <img src="{{ relURL "/image/Synthesia.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>Synthesia</h5>
+                <p>人工智能视频生成</p>
+              </div>
+            </li>
+            <li >
+              <a href="https://pollinations.ai/">
+                <img src="{{ relURL "/image/Pollinations.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>Pollinations</h5>
+                <p>文本转视频、图片</p>
+              </div>
+            </li>
+            <li >
+              <a href="https://zubtitle.com/">
+                <img src="{{ relURL "/image/Zubtitle.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>Zubtitle</h5>
+                <p>为视频添加字幕和在线编辑视频</p>
+              </div>
+            </li>
+            
+          </ul>
+        </div>
+        
+      </section>
+      <section >
+        <h2>AI音频</h2>
+        <div class="card">
+          <ul>
+            <li >
+              <a href="https://www.brain.fm/">
+                <img src="{{ relURL "/image/brainfm.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>Brain.fm</h5>
+                <p>专注、放松、冥想和睡眠，聆听为您的大脑量身打造的音乐</p>
+              </div>
+            </li>
+            <li >
+              <a href="https://www.riffusion.com/">
+                <img src="{{ relURL "/image/Riffusion.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>Riffusion</h5>
+                <p>实时音乐和音频生成库</p>
+              </div>
+            </li>
+            <li >
+              <a href="https://endel.io/">
+                <img src="{{ relURL "/image/Endel.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>Endel</h5>
+                <p>个性化背景音，帮助您集中注意力、放松和睡眠</p>
+              </div>
+            </li>
+            
+          </ul>
+        </div>
+        
+      </section>
+      <section >
+        <h2>AI写作工具</h2>
         <div class="card">
           <ul>
             <li >
               <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <img src="{{ relURL "/image/Writesonic.png" }}" alt="example image">
               </a>
               <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
+                <h5>Writesonic</h5>
+                <p>人工智能写作辅助工具</p>
               </div>
             </li>
             <li >
               <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <img src="{{ relURL "/image/Fireflies.png" }}" alt="example image">
               </a>
               <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
+                <h5>Fireflies</h5>
+                <p>该工具可插入视频会议工具，并自动执行做笔记和创建转录的过程</p>
               </div>
             </li>
             <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              <a href="https://www.jasper.ai/">
+                <img src="{{ relURL "/image/Jasper.png" }}" alt="example image">
               </a>
               <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
+                <h5>Jasper</h5>
+                <p> AI文案写作工具</p>
               </div>
-            </li>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            
+            </li>            
           </ul>
         </div>
         
@@ -215,39 +286,48 @@ section {
         <div class="card">
           <ul>
             <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              <a href="https://www.photoroom.com/">
+                <img src="{{ relURL "/image/PhotoRoom.png" }}" alt="example image">
               </a>
               <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
+                <h5>PhotoRoom</h5>
+                <p>擦除任何背景、对象</p>
+              </div>
+            </li>
+            <li >
+              <a href="https://printidea.art/">
+                <img src="{{ relURL "/image/造梦师.png" }}" alt="example image">
+              </a>
+              <div>
+                <h5>造梦师</h5>
+                <p>只需一句话，让你的文字变成画作</p>
               </div>
             </li>
             <li >
               <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+                <img src="{{ relURL "/image/Stockimg.png" }}" alt="example image">
               </a>
               <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
+                <h5>Stockimg AI</h5>
+                <p>生成各种各样的设计元素,包括logo、插画、图片壁纸等</p>
               </div>
             </li>
             <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              <a href="https://nijijourney.com/zh/">
+                <img src="{{ relURL "/image/niji.png" }}" alt="example image">
               </a>
               <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
+                <h5>niji·journey</h5>
+                <p>二次元ai绘画</p>
               </div>
             </li>
             <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
+              <a href="https://dreamlike.art/">
+                <img src="{{ relURL "/image/Dreamlike.png" }}" alt="example image">
               </a>
               <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
+                <h5>Dreamlike.art</h5>
+                <p>AI图像生成</p>
               </div>
             </li>
             
@@ -255,97 +335,7 @@ section {
         </div>
         
       </section>
-      <section >
-        <h2>AI绘图工具</h2>
-        <div class="card">
-          <ul>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            
-          </ul>
-        </div>
-        
-      </section>
-      <section >
-        <h2>AI绘图工具</h2>
-        <div class="card">
-          <ul>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            <li >
-              <a href="#">
-                <img src="{{ relURL "/icons/45px/facebook.png" }}" alt="example image">
-              </a>
-              <div>
-                <h5>toolname</h5>
-                <p>AI生成图片和文案</p>
-              </div>
-            </li>
-            
-          </ul>
-        </div>
-        
-      </section>
-    </main> -->
+    </main> 
 
 
 {{ end }}
