@@ -112,9 +112,9 @@ section {
   
 }
   .card ul{
-  display: grid;
+  /* display: grid;
   grid-template-columns: 1fr,1fr;
-  justify-content: space-around;
+  justify-content: space-around; */
   margin: 0;
   padding: 0;
 }
@@ -122,7 +122,7 @@ section {
   display: flex;
   width:100%;
   min-width: 300px;
-  height: 100px;
+  height: 150px;
   align-items: center;
   margin-bottom: 5px;
   padding: 0;
@@ -132,17 +132,23 @@ section {
 }
 
 .card ul li img {
-  height: 80px;
+  height: 50%;
   margin-right: 20px;
+  margin-left: 10px;
+  width: 150px;
+  float: left;
 }
 
 .card ul li div h3{
-  margin: 5px;
+  margin: 15px;
+  float: left;
 }
 
 .card ul li div p {
   margin: 0;
   color: #000000;
+  float: left;
+  margin-right: 10px;
 }
 
   
@@ -161,7 +167,7 @@ section {
 
 
     <header>
-      <div id="h1"><h1>AI工具&网站汇总（点击图标即可跳转相应的网站）</h1></div>
+      <div id="title"><h1>AI工具&网站汇总</h1><h5>（点击图标即可跳转相应的网站）</h5></div>
       
     </header>
     <main>
