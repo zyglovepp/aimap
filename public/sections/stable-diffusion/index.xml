@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stable Diffusion on AI 藏宝图</title>
+    <link>https://aimap.netlify.app/sections/stable-diffusion/</link>
+    <description>Recent content in Stable Diffusion on AI 藏宝图</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aimap.netlify.app/sections/stable-diffusion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SD使用资料</title>
+      <link>https://aimap.netlify.app/sections/stable-diffusion/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/</guid>
+      <description>一、网站推荐
+https://civitai.com/（模型网站） https://replicate.com/pharmapsychotic/clip-interrogator（描述图片） https://huggingface.co/spaces/shi-labs/OneFormer（场景解析） https://chat.openai.com/chat（扩写Prompt、配合插件使用） 二、关键词网站
+https://arthub.ai/ Lexica KREA — create better prompts. Stable Diffusion prompt Generator - promptoMANIA </description>
+    </item>
+    
+    <item>
+      <title>SD初学使用</title>
+      <link>https://aimap.netlify.app/sections/stable-diffusion/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/</guid>
+      <description>一、账号部署 云端部署 ​AI 绘画-云端部署-Stable diffusion​
+本地部署 ​AI 绘画-本地部署-Stable Diffusion​
+二、相关教程 设置和使用 文字版 AI 绘画指南 stable diffusion webui （SD webui）如何设置与使用 — 秋风于渭水 (tjsky.net) 视频版 txt2img 文本到图像 img2img图像到图像 TAG 标签用法 ControlNet 的安装使用 </description>
+    </item>
+    
+    <item>
+      <title>SD进阶教程</title>
+      <link>https://aimap.netlify.app/sections/stable-diffusion/%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</guid>
+      <description>一、文字版从零入门 AI 绘画|一文搞懂 StableDiffusion (qq.com) 二、视频版 通过 ChatGPT 生成 Prompt
+AIPRM for ChatGPT 安装教学： https://www.bilibili.com/video/BV1LT411S7GK/ 插件地址：AIPRM for ChatGPT - Chrome 应用商店(https://google.com) 图解图中内容生成 prompt
+教学： https://www.bilibili.com/video/BV1Aj411u7yQ/（开始于01:26） 网址： https://replicate.</description>
+    </item>
+    
+    <item>
+      <title>SD附加内容</title>
+      <link>https://aimap.netlify.app/sections/stable-diffusion/%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9/</guid>
+      <description>一、视频转动画
+https://www.bilibili.com/video/BV1Mo4y1a7DF/ https://www.bilibili.com/video/BV1rY4y1C7Q5/ 二、人物三视图
+https://www.bilibili.com/video/BV1zM41147sH/ 三、云端配置环境、训练模型
+显卡不够好怎么办？： https://www.bilibili.com/video/BV1p84y1H7rr/ AutoDL AI 算力云： https://www.autodl.com/ </description>
+    </item>
+    
+  </channel>
+</rss>
