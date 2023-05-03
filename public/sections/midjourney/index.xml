@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Midjourney on AI 藏宝图</title>
-    <link>https://aimap.netlify.app/sections/midjourney/</link>
+    <link>https://aimaps.com.cn/sections/midjourney/</link>
     <description>Recent content in Midjourney on AI 藏宝图</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aimap.netlify.app/sections/midjourney/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://aimaps.com.cn/sections/midjourney/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL = "https://aimap.netlify.app/"
+baseURL = "https://aimaps.com.cn/"
 canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
@@ -74,3 +74,13 @@ disqusShortname = ""
 # Don't touch this
 [markup.goldmark.renderer]
     unsafe = true
+
+
+# 重定向
+[[redirects]]
+  from = "/sections"
+  to = "https://aimaps.com.cn/sections"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+  signed = "API_SIGNATURE_TOKEN"

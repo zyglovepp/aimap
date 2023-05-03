@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevRa on AI 藏宝图</title>
-    <link>https://aimap.netlify.app/</link>
+    <link>https://aimaps.com.cn/</link>
     <description>Recent content in DevRa on AI 藏宝图</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 25 Mar 2020 04:52:30 +0600</lastBuildDate><atom:link href="https://aimap.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Mar 2020 04:52:30 +0600</lastBuildDate><atom:link href="https://aimaps.com.cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>每个男孩子的梦想现在已经变成了用midjourney画高达了！</title>
-      <link>https://aimap.netlify.app/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A03/</link>
+      <link>https://aimaps.com.cn/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A03/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A03/</guid>
+      <guid>https://aimaps.com.cn/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A03/</guid>
       <description>儿时的梦想就是拥有属于自己的高达，然后……就没有然后了。 后来总是想着设计一款，但是奈何…… 但是 midjourney 让我的梦想焕发第二春！ 我真的用 midjourney 创作出来我的高达！ 你也想尝试吗？ 跟着教程学起来吧！ </description>
     </item>
     
     <item>
       <title>SD使用资料</title>
-      <link>https://aimap.netlify.app/sections/stable-diffusion/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/</link>
+      <link>https://aimaps.com.cn/sections/stable-diffusion/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/</guid>
+      <guid>https://aimaps.com.cn/sections/stable-diffusion/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/</guid>
       <description>一、网站推荐
 https://civitai.com/（模型网站） https://replicate.com/pharmapsychotic/clip-interrogator（描述图片） https://huggingface.co/spaces/shi-labs/OneFormer（场景解析） https://chat.openai.com/chat（扩写Prompt、配合插件使用） 二、关键词网站
 https://arthub.ai/ Lexica KREA — create better prompts. Stable Diffusion prompt Generator - promptoMANIA </description>
@@ -29,10 +29,10 @@ https://arthub.ai/ Lexica KREA — create better prompts. Stable Diffusion promp
     
     <item>
       <title>SD初学使用</title>
-      <link>https://aimap.netlify.app/sections/stable-diffusion/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/</link>
+      <link>https://aimaps.com.cn/sections/stable-diffusion/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/</guid>
+      <guid>https://aimaps.com.cn/sections/stable-diffusion/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/</guid>
       <description>一、账号部署 云端部署 ​AI 绘画-云端部署-Stable diffusion​
 本地部署 ​AI 绘画-本地部署-Stable Diffusion​
 二、相关教程 设置和使用 文字版 AI 绘画指南 stable diffusion webui （SD webui）如何设置与使用 — 秋风于渭水 (tjsky.net) 视频版 txt2img 文本到图像 img2img图像到图像 TAG 标签用法 ControlNet 的安装使用 </description>
@@ -40,10 +40,10 @@ https://arthub.ai/ Lexica KREA — create better prompts. Stable Diffusion promp
     
     <item>
       <title>SD进阶教程</title>
-      <link>https://aimap.netlify.app/sections/stable-diffusion/%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</link>
+      <link>https://aimaps.com.cn/sections/stable-diffusion/%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://aimaps.com.cn/sections/stable-diffusion/%E8%BF%9B%E9%98%B6%E6%95%99%E7%A8%8B/</guid>
       <description>一、文字版从零入门 AI 绘画|一文搞懂 StableDiffusion (qq.com) 二、视频版 通过 ChatGPT 生成 Prompt
 AIPRM for ChatGPT 安装教学： https://www.bilibili.com/video/BV1LT411S7GK/ 插件地址：AIPRM for ChatGPT - Chrome 应用商店(https://google.com) 图解图中内容生成 prompt
 教学： https://www.bilibili.com/video/BV1Aj411u7yQ/（开始于01:26） 网址： https://replicate.</description>
@@ -51,10 +51,10 @@ AIPRM for ChatGPT 安装教学： https://www.bilibili.com/video/BV1LT411S7GK/ �
     
     <item>
       <title>SD附加内容</title>
-      <link>https://aimap.netlify.app/sections/stable-diffusion/%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9/</link>
+      <link>https://aimaps.com.cn/sections/stable-diffusion/%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/stable-diffusion/%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9/</guid>
+      <guid>https://aimaps.com.cn/sections/stable-diffusion/%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9/</guid>
       <description>一、视频转动画
 https://www.bilibili.com/video/BV1Mo4y1a7DF/ https://www.bilibili.com/video/BV1rY4y1C7Q5/ 二、人物三视图
 https://www.bilibili.com/video/BV1zM41147sH/ 三、云端配置环境、训练模型
@@ -63,10 +63,10 @@ https://www.bilibili.com/video/BV1zM41147sH/ 三、云端配置环境、训练�
     
     <item>
       <title>初学使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97-%E5%89%AF%E6%9C%AC/</guid>
       <description>注册指南 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
 链接 Midjourney 官网 https://www.midjourney.com/showcase/recent/
 discord 链接：
@@ -79,64 +79,46 @@ https://discord.com/
     
     <item>
       <title>蚌埠住了，midjourney这也太强了……</title>
-      <link>https://aimap.netlify.app/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A01/</link>
+      <link>https://aimaps.com.cn/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A01/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A01/</guid>
+      <guid>https://aimaps.com.cn/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A01/</guid>
       <description>你小子不对劲(狗头) 被图片骗进来了？ 赶紧去看教程吧，包教包会！ </description>
     </item>
     
     <item>
       <title>阿伟，怎么又在搞midjourney啊</title>
-      <link>https://aimap.netlify.app/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A02/</link>
+      <link>https://aimaps.com.cn/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A02/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A02/</guid>
+      <guid>https://aimaps.com.cn/posts/%E9%A6%96%E9%A1%B5%E6%96%87%E7%AB%A02/</guid>
       <description>你小子不对劲(狗头) 被图片骗进来了？ 赶紧去看教程吧，包教包会！ </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://aimap.netlify.app/posts/jieshao/</link>
+      <link>https://aimaps.com.cn/posts/jieshao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/posts/jieshao/</guid>
+      <guid>https://aimaps.com.cn/posts/jieshao/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://aimap.netlify.app/sections/chatgpt/chatgpt%E6%B2%A1%E6%9C%89%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%94%A8%E8%BF%87%E5%90%97%E5%B0%B1%E6%95%A2%E8%BF%99%E6%A0%B7%E8%AF%B4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aimap.netlify.app/sections/chatgpt/chatgpt%E6%B2%A1%E6%9C%89%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%94%A8%E8%BF%87%E5%90%97%E5%B0%B1%E6%95%A2%E8%BF%99%E6%A0%B7%E8%AF%B4/</guid>
-      <description>有人说chatgpt本质上只是一个话说得好听一些的包装好的机器，本质上还是有多少人工才有多少智能。 但是呢？其实chatgpt已经引诱了推理能力，万维刚举过一个棒球棍能不能塞进耳朵的例子，很好的证明了ai其实是真的理解我们说的话背后的逻辑。 这次真的不一样！ 至于这种能力是怎么得到的？科学家称之为“开悟”。我的理解就是：量变引起质变。其实我们早就懂得这个道理，但是总是感觉好像科学就是需要一个清晰可推理的思考逻辑，不应该这么玄乎。其实人的思考能力的出现，生命的出现都是量变引起质变。 还记得一个牧师的故事，他问：如果告诉你你受伤的机械表是随机碰撞出现的你相信吗？那这么精密的宇宙又怎么会没有上帝呢？ 现在我想有了答案，量变引起质变，这个世界就是这样的，没有义务让你理解，你只要知道是这样就行了。</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://aimap.netlify.app/sections/chatgpt/%E8%B0%83%E6%95%99chatgpt%E8%A2%ABchatgpt%E8%B0%83%E6%95%99%E6%88%91%E4%BB%8Echatgpt%E5%AD%A6%E5%88%B0%E7%9A%84/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://aimap.netlify.app/sections/chatgpt/%E8%B0%83%E6%95%99chatgpt%E8%A2%ABchatgpt%E8%B0%83%E6%95%99%E6%88%91%E4%BB%8Echatgpt%E5%AD%A6%E5%88%B0%E7%9A%84/</guid>
-      <description>最近all in ai，使用chatgpt的时间大幅增加，不断地尝试，调教chatgpt更好地回答我的问题。 猛然发现，chatgpt竟然反过来调教我了。 从前做事情从来没有什么清晰的目标和过程的逻辑，只是稍微有点感觉就上了。但是和chatgpt对话发现，你不给出清晰的指令你还真拿不到你想要的。比如你给它一个编程题目，它给你一份c语言写的，但是你是想要用python写的，这怪谁？你自己没说清楚嘛，人家chatgpt很无辜啊。更加深入的使用chatgpt，我思考问题的能力分析能力表达能力无疑都大幅增加了。ai反过来塑造了我们，未来我们都是prompt大师。 从前我用chatgpt是我有了具体需要才去找它，但是最近我越来越无目的的找它。只是给一个背景环境，然后展开对话，通过一次次的对话，我逐渐弄清楚我思考的内容。它就像是一个苏格拉底式的老师，不断启发我提问，让我的思考趋于完整，我感觉这个才是chatgpt最强大最创新性的改变，让我们发掘自己的潜能，升级我们的大脑。 很多人担心chatgpt生成的内容都是一样的。有没有这样一种可能，我们应该在一次次的对话中得到我们的答案。有人拿它写论文，就给个题目和字数要求，啥也不给，chatgpt也很无奈啊，我哪里知道你是用来干什么的，只能给你生成一份最官方最正确最无聊的版本。你应该自己先想好自己想要什么，然后通过一次次的对话，不断修改chatgpt生成的内容，不断接近那个你想象中的答案，这个过程你会惊奇发现想法到落地的过程。 一场真正改变世界的革命，也必定改变人类本身。</description>
-    </item>
-    
-    <item>
       <title>About</title>
-      <link>https://aimap.netlify.app/about/</link>
+      <link>https://aimaps.com.cn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/about/</guid>
+      <guid>https://aimaps.com.cn/about/</guid>
       <description>如果你在学习教程的时候，希望得到我们的帮助，或者想要加入我们，帮助你学习，欢迎和我们联系。</description>
     </item>
     
     <item>
       <title>ai之于今天就如同电力之于工业时代</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/ai%E4%B9%8B%E4%BA%8E%E4%BB%8A%E5%A4%A9%E5%B0%B1%E5%A6%82%E5%90%8C%E7%94%B5%E5%8A%9B%E4%B9%8B%E4%BA%8E%E5%B7%A5%E4%B8%9A%E6%97%B6%E4%BB%A3/</link>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/ai%E4%B9%8B%E4%BA%8E%E4%BB%8A%E5%A4%A9%E5%B0%B1%E5%A6%82%E5%90%8C%E7%94%B5%E5%8A%9B%E4%B9%8B%E4%BA%8E%E5%B7%A5%E4%B8%9A%E6%97%B6%E4%BB%A3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/ai%E4%B9%8B%E4%BA%8E%E4%BB%8A%E5%A4%A9%E5%B0%B1%E5%A6%82%E5%90%8C%E7%94%B5%E5%8A%9B%E4%B9%8B%E4%BA%8E%E5%B7%A5%E4%B8%9A%E6%97%B6%E4%BB%A3/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/ai%E4%B9%8B%E4%BA%8E%E4%BB%8A%E5%A4%A9%E5%B0%B1%E5%A6%82%E5%90%8C%E7%94%B5%E5%8A%9B%E4%B9%8B%E4%BA%8E%E5%B7%A5%E4%B8%9A%E6%97%B6%E4%BB%A3/</guid>
       <description>最近蛮多人还是比较恐慌的，因为 aigc 的能力实在是超出我们的想象。但是更多的人可能还是抱着一种 ai 很厉害，但是和我有什么关系我照样过自己原本的生活的想法。然而，时代的改变真的已经到来了。打个比方，ai 之于今天就像是电力之于工业时代。
 首先，ai 给我们带来了效率的提高。chatgpt 生成代码的速度超过所有程序员，midjourney 画图速度超过所有画手，然而这都不是最恐怖的，想象一下那些原本就是程序员的人配合 chatgpt，原本就是画手的人配合 midjourney，你觉得效率能提高多少？这个时代的各项工作产出价值将会巨变！
 然而，效率的提高只是量的改变，但是新的动力的带来最重要的质变！一开始人们用电力也只是提高效率，从前蒸汽机，后来用电动机提高效率；从前用火加热，后来用电磁炉。但是电脑，手机的发明才是真正改变了人类世界！那么 ai 呢？现在也只是提高效率，提高写作，编程，画画的效率，那么之后呢？没有人想象得出来，就像工业时代的人无法想象今天。
@@ -146,28 +128,28 @@ ai 和电力一样，威力巨大，远远强过我们人类。很多人就会�
     
     <item>
       <title>ai最厉害的地方就在于它不像人</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/ai%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%AE%83%E4%B8%8D%E5%83%8F%E4%BA%BA/</link>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/ai%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%AE%83%E4%B8%8D%E5%83%8F%E4%BA%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/ai%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%AE%83%E4%B8%8D%E5%83%8F%E4%BA%BA/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/ai%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%E5%9C%B0%E6%96%B9%E5%B0%B1%E5%9C%A8%E4%BA%8E%E5%AE%83%E4%B8%8D%E5%83%8F%E4%BA%BA/</guid>
       <description>很多人都觉得一个强大的 ai 一定是一个很像人的存在，和人一样具有理性和感性，和人一样独立思考。 但是 chatgpt 的出现给了我们一个想法的改变，或许强大的 ai 强大之处就在于不像人类。 chatgpt 它的思考方式是和人类不一样的，但是也有很多相同的地方。 从前我们觉得应该把人类所有能够用语言表达的知识都告诉 ai，然后分门别类，ai 才能根据已有知识回答问题。后来发现很多知识根本就无法表达，而缺少这些背景信息 ai 根本无法理解人类说的话，比如你说小猫好可爱，你能准确的形容什么是小猫吗，什么是可爱吗，很难用语言描述的。后来科学家换了一种方法：监督学习+强化学习。简单来说，就是要让 ai 知道什么是猫，就给它很多张图片，告诉 ai 哪些图片是猫，哪些不是猫，（也就是最近很出名的预训练），然后让 ai 自己搞，通过大量的样本寻找其中的联系（量变导致质变，ai 似乎能够在巨大的样本下找到人类无法找到的联系），之后 ai 自己生成图片，分析是不是猫，自己给自己纠正打分，最后完全理解什么是猫。 这就是 ai 和人类不同的地方，你不知道它是怎么学会的，但是当它通过大量的样本自己分析强化学习后，你问他问题他还整的能理解你说的话。 或许我们的生命起源也是这样的，大量的有机物无机物碰撞，你也不知道为什么会产生生命，但是当你和他打招呼的时候，你发现它真的会回礼。</description>
     </item>
     
     <item>
       <title>chatgpt会不会导致失业</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/chatgpt%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%A4%B1%E4%B8%9A/</link>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%A4%B1%E4%B8%9A/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/chatgpt%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%A4%B1%E4%B8%9A/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%AF%BC%E8%87%B4%E5%A4%B1%E4%B8%9A/</guid>
       <description>会，也不会。 故事都被说烂了，汽车的出现让所有的马车师傅都没了工作，但是年轻上进的马车夫去学开车了，工作不会消失，只会转移。 人们就说：“啊，你们这是幸存者偏差，你没看到那些年纪大的学不会开车的……还是有大部分人都失业了……” 是的，但是呢？想象这个逻辑，你是不是自动代入了你就是那些被忽视的人？你不上进跟上时代，反而怪这个时代发展太快？不是这么个理啊！ 个人，集体，甚至国家，都不可能阻止时代的发展。无数次的罢工，近代的闭关锁国，那一次不是失败告终？ 所以呢？赶紧学习新的知识吧。</description>
     </item>
     
     <item>
       <title>chatgpt方面为什么google起步早却落后于微软</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/chatgpt%E6%96%B9%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88google%E8%B5%B7%E6%AD%A5%E6%97%A9%E5%8D%B4%E8%90%BD%E5%90%8E%E4%BA%8E%E5%BE%AE%E8%BD%AF/</link>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E6%96%B9%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88google%E8%B5%B7%E6%AD%A5%E6%97%A9%E5%8D%B4%E8%90%BD%E5%90%8E%E4%BA%8E%E5%BE%AE%E8%BD%AF/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/chatgpt%E6%96%B9%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88google%E8%B5%B7%E6%AD%A5%E6%97%A9%E5%8D%B4%E8%90%BD%E5%90%8E%E4%BA%8E%E5%BE%AE%E8%BD%AF/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E6%96%B9%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88google%E8%B5%B7%E6%AD%A5%E6%97%A9%E5%8D%B4%E8%90%BD%E5%90%8E%E4%BA%8E%E5%BE%AE%E8%BD%AF/</guid>
       <description>“大型语言模型最关键的一个技术是 transformer 架构，transformer 就是 Google 发明的。Google 有很深的技术积累，自家就有不止一个语言模型。可是一直等到微软把搜索和 GPT 模型结合，推出了 Bing Chat 之后，Google 才坐不住了，在 2 月 7 日推出了一个叫 Bard 的竞品，结果测试表现还不好，导致股价大跌。”——万维钢。
 为啥 chatgpt 方面为什么 google 起步早却落后于微软？
 一个原因：Google 没有把握能够或者不想革自己的命。</description>
@@ -175,20 +157,29 @@ ai 和电力一样，威力巨大，远远强过我们人类。很多人就会�
     
     <item>
       <title>chatgpt是什么？</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/chatgpt%E6%98%AF%E4%BB%80%E4%B9%88/</link>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E6%98%AF%E4%BB%80%E4%B9%88/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/chatgpt%E6%98%AF%E4%BB%80%E4%B9%88/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E6%98%AF%E4%BB%80%E4%B9%88/</guid>
       <description>chatgpt 不是聊天机器人，不会理解你给它出的各种脑筋急转弯。它本身还无法联网，它不知道你周围的热点新闻。它也不是一个全知全能的神，不知道明天彩票的中奖号。 chatgpt 是一个以聊天为界面的信息处理工具，强大的是处理问题、汇总信息的能力。 有人觉得 chatgpt 主要强大的是人性化的聊天能力，大错特错！这只是细枝末节的地方，只是 openai 为了更好的传播使用做的小的设计。chatgpt 具有历史纪念意义的原因是：它成功证明了一条 aigc 的路线，大语言模型真的可行，量变真的能够引起质变！
 chatgpt 其实没有我们以为的那样什么都会，目前它最擅长的还是那些有规律可循的、模板化的工作，比如工作报表，论文写作，表格填写等等。其实本质上也是机器学习的特点。</description>
     </item>
     
     <item>
-      <title>Chatgpt的几种计算机学生的正确用法</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E7%94%9F%E5%87%A0%E7%A7%8D%E6%AD%A3%E7%A1%AE%E8%BF%90%E7%94%A8chatgpt%E7%9A%84%E6%96%B9%E5%BC%8F/</link>
+      <title>chatgpt没有推理能力？你真的用过吗就敢这样说</title>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E6%B2%A1%E6%9C%89%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%94%A8%E8%BF%87%E5%90%97%E5%B0%B1%E6%95%A2%E8%BF%99%E6%A0%B7%E8%AF%B4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E7%94%9F%E5%87%A0%E7%A7%8D%E6%AD%A3%E7%A1%AE%E8%BF%90%E7%94%A8chatgpt%E7%9A%84%E6%96%B9%E5%BC%8F/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/chatgpt%E6%B2%A1%E6%9C%89%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E4%BD%A0%E7%9C%9F%E7%9A%84%E7%94%A8%E8%BF%87%E5%90%97%E5%B0%B1%E6%95%A2%E8%BF%99%E6%A0%B7%E8%AF%B4/</guid>
+      <description>有人说 chatgpt 本质上只是一个话说得好听一些的包装好的机器，本质上还是有多少人工才有多少智能。 但是呢？其实 chatgpt 已经引诱了推理能力，万维刚举过一个棒球棍能不能塞进耳朵的例子，很好的证明了 ai 其实是真的理解我们说的话背后的逻辑。 这次真的不一样！ 至于这种能力是怎么得到的？科学家称之为“开悟”。我的理解就是：量变引起质变。其实我们早就懂得这个道理，但是总是感觉好像科学就是需要一个清晰可推理的思考逻辑，不应该这么玄乎。其实人的思考能力的出现，生命的出现都是量变引起质变。 还记得一个牧师的故事，他问：如果告诉你你受伤的机械表是随机碰撞出现的你相信吗？那这么精密的宇宙又怎么会没有上帝呢？ 现在我想有了答案，量变引起质变，这个世界就是这样的，没有义务让你理解，你只要知道是这样就行了。</description>
+    </item>
+    
+    <item>
+      <title>Chatgpt的几种计算机学生的正确用法</title>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E7%94%9F%E5%87%A0%E7%A7%8D%E6%AD%A3%E7%A1%AE%E8%BF%90%E7%94%A8chatgpt%E7%9A%84%E6%96%B9%E5%BC%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E7%94%9F%E5%87%A0%E7%A7%8D%E6%AD%A3%E7%A1%AE%E8%BF%90%E7%94%A8chatgpt%E7%9A%84%E6%96%B9%E5%BC%8F/</guid>
       <description>Chatgpt 的几种计算机学生的正确用法
 第一种：让 chatgpt 当作你的编程老师
 我问它：我是一名计算机专业的学生，我想要系统学习一一下 c++，能不能给我列出一份 markdown 语法的思维导图，让我大致了解我需要学习哪些内容。
@@ -198,37 +189,37 @@ chatgpt 其实没有我们以为的那样什么都会，目前它最擅长的还
     
     <item>
       <title>Contact</title>
-      <link>https://aimap.netlify.app/contact/</link>
+      <link>https://aimaps.com.cn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/contact/</guid>
+      <guid>https://aimaps.com.cn/contact/</guid>
       <description>Click meto reveal my email.Don&amp;rsquo;t spam or I will kidnap your cat.</description>
     </item>
     
     <item>
       <title>tool</title>
-      <link>https://aimap.netlify.app/tool/</link>
+      <link>https://aimaps.com.cn/tool/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/tool/</guid>
+      <guid>https://aimaps.com.cn/tool/</guid>
       <description>暂时还没有搞好，之后会开放此页面 </description>
     </item>
     
     <item>
       <title>为什么chatgpt会忘记你说过的话？</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E4%BC%9A%E5%BF%98%E8%AE%B0%E4%BD%A0%E8%AF%B4%E8%BF%87%E7%9A%84%E8%AF%9D/</link>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E4%BC%9A%E5%BF%98%E8%AE%B0%E4%BD%A0%E8%AF%B4%E8%BF%87%E7%9A%84%E8%AF%9D/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E4%BC%9A%E5%BF%98%E8%AE%B0%E4%BD%A0%E8%AF%B4%E8%BF%87%E7%9A%84%E8%AF%9D/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E4%BC%9A%E5%BF%98%E8%AE%B0%E4%BD%A0%E8%AF%B4%E8%BF%87%E7%9A%84%E8%AF%9D/</guid>
       <description>因为它本身不会记住你说过什么。 如果你把它当做一个真正的生命体，那么你就会默认它拥有记忆能力，而 chatgpt 大多数时候好像确实能够记住你曾经提到过的一些东西，让你惊呼“确实牛啊”，然后潜移默化把它当作有这么一个生命体能力的特点。 但是 chatgpt“记住你说的话”的原理不是因为它有记忆能力，而是因为它每次和你对话就会把你和它曾经说过的话当做上下文进行处理，而这个处理是有长度限制的，当你和它聊了很多的时候，它就无法读取到之前说过的话，表现就是：它忘记你说过的东西了。</description>
     </item>
     
     <item>
       <title>为什么chatgpt没有出现在中国？</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E6%B2%A1%E6%9C%89%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD/</link>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E6%B2%A1%E6%9C%89%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E6%B2%A1%E6%9C%89%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD/</guid>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E4%B8%BA%E4%BB%80%E4%B9%88chatgpt%E6%B2%A1%E6%9C%89%E5%87%BA%E7%8E%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD/</guid>
       <description>今天看了 tiny 老师的一个视频，聊到了为什么 chatgpt 没有出现在中国，自己还是比较感慨的啊。
 视频大概内容就是说，其实中国具备了大部分 ai 创新的基础条件，人口基数大，数据量大，经济发展快，有需求，数据隐私保护做得没有那么好，有很多数据可以使用。但是为什么中国企业却只能做跟随者。因为中国的基本国情不一样，在美国很多东西其实没有在中国管理的没有那么严格，大家现在觉得 spaceX 很强很伟大，但是这个玩意在中国出现，马上就会被各种专家媒体舆论大众搞没掉，“你怎么敢做这种东西啊”，“风险评估你有好好考虑吗”，“对社会冲击多大你有考虑吗”，就算勉强通过，没不会有人有钱支持你，还有一大堆政策上的约束。总之创新的种子就不可能萌发。只有美国那边搞起来了，中国政府有些慌了，然后企业就和政府谈判，你看美国搞得这么风生水起，咱们再不追就赶不上了。然后政府才稍微让步。
 这样的做法有错吗，其实也没有。至少在过去的几十年里，中国没有点错什么科技树，没有落后什么技术，“顶多”就是错过了大多数新技术的红利期，只能跟着喝汤。最后通过成本控制拿到市场份额。但是在未来就不一定了，一个新的时代的来临，肯定是需要进取的，而不是跟在别人背后的，因为时代变革的变化朝夕之间就能变化莫测。想想过去刚刚过去的 3 月份吧，如果真的置身局内，你会真的有种恍若隔世的感觉。
@@ -237,10 +228,10 @@ chatgpt 其实没有我们以为的那样什么都会，目前它最擅长的还
     
     <item>
       <title>使用资料</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/prompt%E7%A4%BE%E5%8C%BA%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/prompt%E7%A4%BE%E5%8C%BA%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/prompt%E7%A4%BE%E5%8C%BA%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/prompt%E7%A4%BE%E5%8C%BA%E5%92%8C%E5%85%B3%E9%94%AE%E8%AF%8D%E7%BD%91%E7%AB%99%E5%AE%89%E5%88%A9-%E5%89%AF%E6%9C%AC/</guid>
       <description>Prompt 社区和关键词网站安利 Prompt 社区 PromptBase
 Public Prompts
 KREA — explore great prompts.
@@ -252,10 +243,10 @@ Mj Prompt Tool https://prompt.noonshot.com/
     
     <item>
       <title>使用资料</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4-%E5%89%AF%E6%9C%AC/</guid>
       <description>常用指令 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
 常用指令 /imagine 最基础的绘画指令。在 imagine 后面输入关键词即可进行 AI 绘画。
 /help 机器人会推送一些指南及基本的帮助信息。/subscribe 进入订阅频道。基础会员(10 美金/月)：每月 200 分钟 GPU 使用时间(fast 模式)。标准会员(30 美金/月)：每月 15 小时 GPU 使用时间(fast 模式)，并无限使用 relax 模式。</description>
@@ -263,30 +254,30 @@ Mj Prompt Tool https://prompt.noonshot.com/
     
     <item>
       <title>使用资料</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E6%95%88%E6%9E%9C%E8%AF%8D%E6%94%B6%E9%9B%86-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E6%95%88%E6%9E%9C%E8%AF%8D%E6%94%B6%E9%9B%86-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E6%95%88%E6%9E%9C%E8%AF%8D%E6%94%B6%E9%9B%86-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E4%BD%BF%E7%94%A8%E8%B5%84%E6%96%99/%E6%95%88%E6%9E%9C%E8%AF%8D%E6%94%B6%E9%9B%86-%E5%89%AF%E6%9C%AC/</guid>
       <description>效果词收集 迪斯科扩散 70+ 艺术家研究 Disco Diffusion 70+ Artist Studies | Weird Wonderful AI Art
 基本艺术家 Mj v4 参考库 Basic artist - MJ v4 - lib.KALOS.art</description>
     </item>
     
     <item>
       <title>初学使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/midjourney&#43;chatgtp-%E5%88%9D%E6%AD%A5%E5%B9%B3%E9%9D%A2%E5%92%8C%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/midjourney&#43;chatgtp-%E5%88%9D%E6%AD%A5%E5%B9%B3%E9%9D%A2%E5%92%8C%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/midjourney&#43;chatgtp-%E5%88%9D%E6%AD%A5%E5%B9%B3%E9%9D%A2%E5%92%8C%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/midjourney&#43;chatgtp-%E5%88%9D%E6%AD%A5%E5%B9%B3%E9%9D%A2%E5%92%8C%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1-%E5%89%AF%E6%9C%AC/</guid>
       <description>Midjourney+Chatgtp 初步平面和产品设计 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！# 前言：无论用 Midjourney 做什么设计，还是结合 ChatGTP 提供灵感使用的结果最简单且一流用魔法打败魔法设计 EG：1. 盲盒1. 吉祥物等各种 LOGO1. UI 屏幕1. App 图标1. 海报1. 服装1. 建筑1. 各种风格的绘画1. 等等&amp;hellip;只有你想不到，没有 ai 做不到
 用 ChatGTP 提供不同设计风格的提示词 你跟 chatgpt 说：</description>
     </item>
     
     <item>
       <title>初学使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%97%A0%E9%99%90%E6%AC%A1%E7%99%BD%E5%AB%96%E6%96%B9%E6%B3%95-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%97%A0%E9%99%90%E6%AC%A1%E7%99%BD%E5%AB%96%E6%96%B9%E6%B3%95-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%97%A0%E9%99%90%E6%AC%A1%E7%99%BD%E5%AB%96%E6%96%B9%E6%B3%95-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%97%A0%E9%99%90%E6%AC%A1%E7%99%BD%E5%AB%96%E6%96%B9%E6%B3%95-%E5%89%AF%E6%9C%AC/</guid>
       <description>无限次白嫖方法 副本 方法一已经在 3 月 29 号被官方修复，下面介绍一些其他的方法来解决账号这方面的问题 方法一：无限次白嫖方法 （这边默认各位都有自己的 Mijourney 服务器）
 先在自己的 discord 界面中选择一个服务器，左上角下拉选择邀请其他人，
 选择复制邀请，点击复制
@@ -299,28 +290,28 @@ Mj Prompt Tool https://prompt.noonshot.com/
     
     <item>
       <title>添加 niji 机器人生成动漫图</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B7%BB%E5%8A%A0%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B7%BB%E5%8A%A0%E6%9C%BA%E5%99%A8%E4%BA%BA/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B7%BB%E5%8A%A0%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E5%88%9D%E5%AD%A6%E4%BD%BF%E7%94%A8/%E6%B7%BB%E5%8A%A0%E6%9C%BA%E5%99%A8%E4%BA%BA/</guid>
       <description>添加 niji 机器人生成动漫图 副本 最简单的动漫图示例: 添加 niji 机器人 从社区中搜索 niji,选择第二个“niji 机器人”进入，然后单击“添加到服务器”，添加到之前创建好的服务器，添加完成后和 midjourney 的使用方式相同</description>
     </item>
     
     <item>
-      <title>资料太多，怕你把握不住（其实是因为还没来得及弄上来……）</title>
-      <link>https://aimap.netlify.app/sections/chatgpt/</link>
+      <title>调教chatgpt？被chatgpt调教！我从chatgpt学到的</title>
+      <link>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E8%B0%83%E6%95%99chatgpt%E8%A2%ABchatgpt%E8%B0%83%E6%95%99%E6%88%91%E4%BB%8Echatgpt%E5%AD%A6%E5%88%B0%E7%9A%84/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/chatgpt/</guid>
-      <description>别骂了别骂了，头秃了在肝了</description>
+      <guid>https://aimaps.com.cn/sections/chatgpt/%E5%85%B3%E4%BA%8Echatgpt%E7%9A%84%E6%80%9D%E8%80%83/%E8%B0%83%E6%95%99chatgpt%E8%A2%ABchatgpt%E8%B0%83%E6%95%99%E6%88%91%E4%BB%8Echatgpt%E5%AD%A6%E5%88%B0%E7%9A%84/</guid>
+      <description>最近 all in ai，使用 chatgpt 的时间大幅增加，不断地尝试，调教 chatgpt 更好地回答我的问题。 猛然发现，chatgpt 竟然反过来调教我了。 从前做事情从来没有什么清晰的目标和过程的逻辑，只是稍微有点感觉就上了。但是和 chatgpt 对话发现，你不给出清晰的指令你还真拿不到你想要的。比如你给它一个编程题目，它给你一份 c 语言写的，但是你是想要用 python 写的，这怪谁？你自己没说清楚嘛，人家 chatgpt 很无辜啊。更加深入的使用 chatgpt，我思考问题的能力分析能力表达能力无疑都大幅增加了。ai 反过来塑造了我们，未来我们都是 prompt 大师。 从前我用 chatgpt 是我有了具体需要才去找它，但是最近我越来越无目的的找它。只是给一个背景环境，然后展开对话，通过一次次的对话，我逐渐弄清楚我思考的内容。它就像是一个苏格拉底式的老师，不断启发我提问，让我的思考趋于完整，我感觉这个才是 chatgpt 最强大最创新性的改变，让我们发掘自己的潜能，升级我们的大脑。 很多人担心 chatgpt 生成的内容都是一样的。有没有这样一种可能，我们应该在一次次的对话中得到我们的答案。有人拿它写论文，就给个题目和字数要求，啥也不给，chatgpt 也很无奈啊，我哪里知道你是用来干什么的，只能给你生成一份最官方最正确最无聊的版本。你应该自己先想好自己想要什么，然后通过一次次的对话，不断修改 chatgpt 生成的内容，不断接近那个你想象中的答案，这个过程你会惊奇发现想法到落地的过程。 一场真正改变世界的革命，也必定改变人类本身。</description>
     </item>
     
     <item>
       <title>进阶使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/30%E7%A7%8D%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/30%E7%A7%8D%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/30%E7%A7%8D%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/30%E7%A7%8D%E8%89%BA%E6%9C%AF%E9%A3%8E%E6%A0%BC-%E5%89%AF%E6%9C%AC/</guid>
       <description>作者：树哥玩转 AIGC链接：https://zhuanlan.zhihu.com/p/610590670来源：知乎本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
 1、等距动漫风格 美丽的冰淇淋店
 关键词：3d 32-bit isometric anime ice cream stand with an old woman &amp;ndash;v 4
@@ -331,10 +322,10 @@ images from Exquisite Workers
     
     <item>
       <title>进阶使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/logo%E8%AE%BE%E8%AE%A1/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/logo%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/logo%E8%AE%BE%E8%AE%A1/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/logo%E8%AE%BE%E8%AE%A1/</guid>
       <description>LOGO 设计 副本 作者：树哥玩转 AIGC链接：https://zhuanlan.zhihu.com/p/613391659来源：知乎本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！
 用 Midjourney 设计 logo 的关键词与样图。 矢量图形类 logo 设计 核心关键词：vector &amp;ndash;no realistic photo detail shading
 明确告诉 Midjourney，不想要“细节”或“现实主义”或“阴影”。
@@ -343,10 +334,10 @@ images from Exquisite Workers
     
     <item>
       <title>进阶使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BA%BA%E7%89%A9%E8%A7%86%E5%9B%BE%E8%A7%A3%E6%9E%90-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BA%BA%E7%89%A9%E8%A7%86%E5%9B%BE%E8%A7%A3%E6%9E%90-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BA%BA%E7%89%A9%E8%A7%86%E5%9B%BE%E8%A7%A3%E6%9E%90-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BA%BA%E7%89%A9%E8%A7%86%E5%9B%BE%E8%A7%A3%E6%9E%90-%E5%89%AF%E6%9C%AC/</guid>
       <description>本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！本文参考公众号：RaDesign
 摄影三要素 拍摄位置：正面/背面/侧面： Front view 正面（前视图）/Back view 背面（后视图）/Side view 侧面（侧视图）/Left view（左视图）/Overhead view （俯视图）
 示例 例句：Kawaii maid &amp;ndash;ar 16:9
@@ -356,10 +347,10 @@ images from Exquisite Workers
     
     <item>
       <title>进阶使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BB%A5%E5%9B%BE%E7%94%9F%E6%96%87-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BB%A5%E5%9B%BE%E7%94%9F%E6%96%87-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BB%A5%E5%9B%BE%E7%94%9F%E6%96%87-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E4%BB%A5%E5%9B%BE%E7%94%9F%E6%96%87-%E5%89%AF%E6%9C%AC/</guid>
       <description>以图生文 1、在 Midjourney 中找到 /describe 指令
 2、选择 /describe 指令后，点击红框区域 上传图片
 3、上传图片后，确认回车，会生成 4 组该图片的关键词
@@ -370,10 +361,10 @@ images from Exquisite Workers
     
     <item>
       <title>进阶使用</title>
-      <link>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E6%9B%B4%E7%B2%BE%E5%87%86%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D-%E5%89%AF%E6%9C%AC/</link>
+      <link>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E6%9B%B4%E7%B2%BE%E5%87%86%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D-%E5%89%AF%E6%9C%AC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aimap.netlify.app/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E6%9B%B4%E7%B2%BE%E5%87%86%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D-%E5%89%AF%E6%9C%AC/</guid>
+      <guid>https://aimaps.com.cn/sections/midjourney/%E8%BF%9B%E9%98%B6%E4%BD%BF%E7%94%A8/%E5%A6%82%E4%BD%95%E5%86%99%E5%87%BA%E6%9B%B4%E7%B2%BE%E5%87%86%E7%9A%84%E5%85%B3%E9%94%AE%E8%AF%8D-%E5%89%AF%E6%9C%AC/</guid>
       <description>如何写出更精准的关键词 本文档部分素材和文档来自互联网搜集，版权为原作者所有，如有侵犯权益，请联系我们删除！本文参考公众号：彩云译设计
 一、通用场景模版 1）具象描述法：模版只是列举了常用的几类关键词，大家根据实际情况自行加减即可
 句式：
